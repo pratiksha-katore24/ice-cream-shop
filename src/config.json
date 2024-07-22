@@ -1,0 +1,31 @@
+{
+    "shopName": "🍦Ice-Cream  Shop🍦",
+    "headerBgColor": "#ff66d9",
+    "headerColor": "#fff",
+    "footerText": "© 2024 Ice Cream Shop. All rights reserved.",
+    "footerBgcolor":"#ff66d9",
+    "productsHeading": "Available Flavors",
+    "cardBgColor": "#fff",
+    "products": [
+      {
+        "name": "CHOCOLATE",
+        "image": "https://th.bing.com/th/id/OIP.ZA-4CaBnYqe5Xyv44YPVOQHaHV?rs=1&pid=ImgDetMain",
+        "description": "Teasty & Sweet.."
+      },
+      {
+        "name": "MANGO",
+        "image": "https://th.bing.com/th/id/OIP.OXmgvYoYatIpsnZD64_-_AHaLG?rs=1&pid=ImgDetMain",
+        "description": "Delicous..."
+      },
+      {
+        "name": "STRAWBERRY",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/7d/25/0c/cakes-pies-and-more-everyone.jpg",
+        "description": "rich strawberry.."
+      },
+      {
+        "name": "VANILLA",
+        "image": "https://www.glorioustreats.com/wp-content/uploads/2011/07/perfect-vanilla-cupcakes-square.jpg",
+        "description": "woww.."
+      }
+    ]
+  }
