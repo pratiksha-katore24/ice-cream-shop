@@ -1,10 +1,10 @@
 {
-    "shopName": "🍦Ice-Cream  Shop🍦",
+    "shopName": "🍦Ice-Cream -Shop🍦",
     "headerBgColor": "#ff66d9",
     "headerColor": "#fff",
     "footerText": "© 2024 Ice Cream Shop. All rights reserved.",
     "footerBgcolor":"#ff66d9",
-    "productsHeading": "Available Flavors",
+    "productsHeading": "Available ice-creams..",
     "cardBgColor": "#fff",
     "products": [
       {
